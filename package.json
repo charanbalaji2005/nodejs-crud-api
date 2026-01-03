@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-crud-api-project",
+  "version": "1.0.0",
+  "description": "Vanilla Node.js CRUD API (Node 18)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Charan Balaji",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
